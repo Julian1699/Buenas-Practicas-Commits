@@ -68,40 +68,40 @@ Escribe los mensajes como si estuvieras dando una orden. Ejemplo: `Add new login
 
 ```bash
 git commit -m "feat(auth): add user login feature"
-´´´
+```
 
 ### fix: Corregir un error.
 
-´´´bash
+```bash
 git commit -m "fix(auth): handle token expiration correctly"
-´´´
+```
 
 ### docs: Actualizar la documentación.
 
-´´´bash
+```bash
 git commit -m "docs(readme): update installation instructions"
-´´´
+```
 
 ### style: Cambios de formato y estilo del código.
 
-´´´bash
+```bash
 git commit -m "style(css): fix spacing issues in header"
-´´´
+```
 
 ### refactor: Refactorización del código sin cambiar su funcionalidad.
 
-´´´bash
+```bash
 git commit -m "refactor(user-service): optimize user data processing"
-´´´
+```
 
 ### test: Añadir o modificar pruebas.
 
-´´´bash
+```bash
 git commit -m "test(auth): add tests for login endpoint"
-´´´
+```
 
 ### chore: Cambios en tareas de mantenimiento.
 
-´´´bash
+```bash
 git commit -m "chore(deps): update dependency versions"
-´´´
+```
